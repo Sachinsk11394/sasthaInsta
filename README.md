@@ -1,5 +1,7 @@
 # sasthaInsta
 
+This is example app for how a Image hosting app can work. It contains two tabs to display latest and most viewed images in a list. The above stories section acts as a quick view to all the posts of a given particlar topic. 
+
 Future development
 - Optimize recyclerview placeholder cards
 - Use more complex network response mechanism
